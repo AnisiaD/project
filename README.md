@@ -1,1 +1,1 @@
-https://anisiad.github.io/project/
+https://anisiad.github.io/project/index.html
